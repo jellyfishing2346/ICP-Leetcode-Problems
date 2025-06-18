@@ -13,7 +13,7 @@ Welcome to my **LeetCode Practice Problems** repository, created as part of **Co
 | 2 | [Min Stack](https://leetcode.com/problems/min-stack/) | [min-stack.py](/Week%202/min-stack.py) | [🔗](https://leetcode.com/problems/min-stack/) |
 | 2 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [two-sum-array-II.py](/Week%202/two-sum-array-II.py) | [🔗](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [longest-substring-no-repeats.py](/Week%203/longest-substring-no-repeats.py) | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
-| 4 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [middle-linked-list.py](/Week%401/middle-linked-list.py) | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 4 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [middle-linked-list.py](https://github.com/jellyfishing2346/ICP-Leetcode-Problems/tree/main/Week%204] | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/) |
 
 ---
 
